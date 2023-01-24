@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://dev.rok-solution.com/Login/TestsImport -->
+<html lang="en" data-theme="BlueCrystal" style="--blazor-load-percentage:100%; --blazor-load-percentage-text:&quot;100%&quot;;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+
+    <!--<base href="/">--><base href=".">
+
+    <script>
+        var allowedSubsites = ["website", "rokweb"];
+        var base = document.getElementsByTagName('base')[0];
+        var path = window.location.pathname.split('/');
+        var baseHasChanged = false;
+
+        console.log('start href = ' + base.href);
+
+        if (path.length > 1) {
+            var subsite = path[1].toLowerCase();
+            allowedSubsites.forEach(
+                function (allowedSubsite) {
+                    if (subsite.startsWith(allowedSubsite)) {
+                        base.setAttribute('href', '/' + path[1] + '/');
+                        baseHasChanged = true;
+                    }
+                }
+            )
+        }
+        else {
+            base.setAttribute('href', window.location.pathname);
+            baseHasChanged = true;
+        }
+
+        console.log('end href = ' + base.href);
+
+    </script>
+
+    <link href="./ROK - Login_files/box-model.css" rel="stylesheet">
+    <link href="./ROK - Login_files/app.css" rel="stylesheet">
+    <link href="./ROK - Login_files/theme.css" rel="stylesheet">
+    <link href="./ROK - Login_files/WebSiteCore.Client.styles.css" rel="stylesheet">
+<link rel="modulepreload" href="https://dev.rok-solution.com/_framework/dotnet.7.0.2.ailjukquec.js" crossorigin="anonymous" integrity="sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA="><!--!--><title>ROK - Login</title><!--!--><!--!--></head>
+
+<body>
+    <div id="app"><!--!--><!--!--><!--!--><!--!--><!--!--><!--!--><!--!--><!--!--><div class="backgroundColor" b-cfgo8evbik=""></div>
+<div class="dialogBackground" b-cfgo8evbik=""><main class="middleAligner" b-cfgo8evbik=""><div class="dialog" b-cfgo8evbik=""><!--!--><!--!--><!--!--><!--!-->
+
+<div class="rok-logo" b-o5vak02glw=""></div>
+<div class="login-decoration" b-o5vak02glw=""><span class="h1-deco" b-o5vak02glw="">Your solution starts here</span><!--!-->
+    <span class="h2-deco" b-o5vak02glw="">Connect to your ROK web plateform</span><!--!-->
+
+    <div class="img-deco" b-o5vak02glw=""></div></div><!--!-->
+<div class="login-form" b-o5vak02glw=""><!--!--><!--!--><link href="./ROK - Login_files/Login.css" rel="stylesheet">
+
+<div class="login-header"><h1 class="login-h1">Login</h1></div><!--!-->
+
+<!--!--><form><!--!--><div><!--!--><input placeholder="User name" class="login-input modified valid" _bl_2=""></div><!--!-->
+    <div><!--!--><input type="password" placeholder="Password" class="login-input modified valid" _bl_3=""></div><!--!-->
+    <button type="submit" class="login-button">LOGIN</button></form></div></div></main></div></div>
+
+    <div id="blazor-error-ui">
+        Please use the link you were provided with.
+    </div>
+
+    <script src="./ROK - Login_files/AuthenticationService.js"></script>
+    <script src="./ROK - Login_files/blazor.webassembly.js"></script>
+    <script src="./ROK - Login_files/interop.js"></script>
+
+
+
+</body></html>

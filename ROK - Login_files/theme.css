@@ -1,0 +1,272 @@
+[data-theme="OriginalBlue"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="Dark"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="RedCrystal"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="BlueCrystal"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="RedGrayCrystal"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="BlueSea"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
+
+[data-theme="WarmBlue"] {
+    /*General colors*/
+    --main-background-color: #FFFFFF;
+    --main-color: #2C2C2C;
+    --main-lighter-color: #707070;
+    --main-icon-color: #2C2C2C;
+    --main-border: 1px solid #DEDEDE;
+    --header-background-color: #0E1E31;
+    --header-color: #FFFFFF;
+    --header-border: 1px solid #CECECE;
+    --alternative-background-color: #F5F5F5;
+    --alternative-color: #2C2C2C;
+    --alternative-title-color: #2467B7;
+    --alternative-border: 1px solid #DEDEDE;
+    --alternative-light-background-color: #FAFAFA;
+    --alternative-light-color: #2C2C2C;
+    --alternative-light-border: 1px solid #F0F0F0;
+    --selected-color: #FFFFFF;
+    --selected-icon-color: #FFFFFF;
+    --selected-background-color: #2467B7;
+    --selected-border: 0px solid #2467B7;
+    --button-border: 1px solid #F0F0F0;
+    --ok-color: #4AD991;
+    /*Specific colors*/
+    --task-color: #FFFFFF;
+    --task-background-color: #FE9D56;
+    --document-color: #FFFFFF;
+    --document-background-color: #F45F73;
+    --description-color: #FFFFFF;
+    --description-background-color: #53D2F5;
+    --software-color: #FFFFFF;
+    --software-background-color: #E17CFF;
+    --hr-color: #FFFFFF;
+    --hr-background-color: #E17CFF;
+    --risk-color: #FFFFFF;
+    --risk-background-color: #E17CFF;
+    --cys-icon-color: #FFFFFF;
+}
